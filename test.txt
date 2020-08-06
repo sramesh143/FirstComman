@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-https://github.com/sramesh143/ApartmentManagment.git
-=======
-hello this is text files
-new text file
->>>>>>> origin/master
